@@ -21,8 +21,7 @@ export async function GET() {
         },
         headers: {
           "X-RapidAPI-Host": "streaming-availability.p.rapidapi.com",
-          "X-RapidAPI-Key":
-            "b1169a7ec8mshcf2d28b68d0f3f6p10e6e0jsna7d1975f23b5",
+          "X-RapidAPI-Key": "b1169a7ec8mshcf2d28b68d0f3f6p10e6e0jsna7d1975f23b5",
         },
       }
     );
